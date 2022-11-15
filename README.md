@@ -5,7 +5,7 @@
 * 함수 컴포넌트 기반의 개발
 * React Hooks 사용
 * PostCSS를 활용한 스타일링
-* Netlify를 이용한 사이트 배포 
+* Netlify를 이용한 사이트 배포 (https://unique-boba-607005.netlify.app)
 
 ___
 
