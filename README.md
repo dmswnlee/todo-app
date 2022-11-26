@@ -1,7 +1,6 @@
 
 # Todo-app
 
-* JSX 문법을 사용한 리액트 앱 개발 
 * 함수 컴포넌트 기반의 개발
 * React Hooks 사용
 * PostCSS를 활용한 스타일링
